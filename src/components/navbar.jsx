@@ -6,7 +6,7 @@ export default function Navbar() {
     <nav className="navbar bg-light border-bottom border-success border-2 shadow">
       <div className="container-fluid">
         <a className="navbar-brand fw-bolder text-success" href="#">
-          Kelas Food
+          Bahar Food
         </a>
         <ul className="nav">
           <li className="nav-item">
